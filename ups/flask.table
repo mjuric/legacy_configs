@@ -1,0 +1,7 @@
+# All Flask dependencies:
+# itsdangerous==0.24
+# Jinja2==2.7.3
+# Werkzeug==0.9.6
+# are provided by anaconda
+setupRequired(anaconda)
+envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
