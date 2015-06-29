@@ -14,6 +14,9 @@ for prod in $PRODUCTS; do
 	rm -rf tmp
 done
 
+# Add anaconda.table by hand
+touch "$UPS"/anaconda.table
+
 mv ups ups.old
 mv "$UPS" ups
 rm -rf ups.old
