@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PRODUCTS="python swig flask twisted numpy protobuf matplotlib pyyaml sqlalchemy requests"
+PRODUCTS="python swig flask twisted numpy matplotlib pyyaml sqlalchemy requests"
 
 REPOROOT="https://github.com/LSST"
 UPS="ups.new"
