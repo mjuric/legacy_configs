@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PRODUCTS="python swig flask twisted numpy matplotlib pyyaml sqlalchemy requests scipy"
+PRODUCTS="python swig flask twisted numpy matplotlib pyyaml sqlalchemy requests scipy astropy"
 
 REPOROOT="https://github.com/LSST"
 UPS="ups.new"
